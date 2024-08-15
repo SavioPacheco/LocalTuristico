@@ -44,11 +44,14 @@ header img {
     margin: 44px 0 24px;
 }
 
-header p {
+p {
     font-size: 16px;
+    color: #333333;
+}
+
+header p {
     text-align: center;
     font-style: italic;
-    color: #333333;
     margin-bottom: 40px;
 }
 
@@ -82,16 +85,7 @@ main section {
 h3 {
     font-size: 28px;
     font-weight: 700;
-    margin: 0 0 4PX 8PX;
-}
-
-main p {
-    font-size: 16px;
-    color: #333333;
-}
-
-main img {
-    margin-bottom: 20px;
+    margin: 20px 0 4PX 8PX;
 }
 
 li {
@@ -131,7 +125,7 @@ footer section {
 
 #foot {
     margin-top: 68px;
-    font-family: Alice, serif;
+    font-family: Alice , serif;
     font-size: 16px;
 }
 
